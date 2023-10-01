@@ -4,3 +4,4 @@ New line
 Some text
 Changes
 Some merge conflict line
+New line by Andreeha
