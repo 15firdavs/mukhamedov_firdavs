@@ -1,2 +1,3 @@
 Some text
 Changes
+Some merge conflict line
