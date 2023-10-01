@@ -1,2 +1,4 @@
 Some text again
 New line again
+
+There was a line

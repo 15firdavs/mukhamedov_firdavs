@@ -1,2 +1,6 @@
 Cha123nges
 New line
+
+Some text
+Changes
+Some merge conflict line
